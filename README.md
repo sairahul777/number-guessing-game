@@ -31,7 +31,7 @@ python number_guessing_game.py
 ---
 
 
-🔧 Features
+## 🔧 Features
 
 Difficulty levels (easy and hard)
 
@@ -44,7 +44,7 @@ Attempt counter and graceful end message
 
 ---
 
-🧠 Example Output
+## 🧠 Example Output
 
 
 <pre>
@@ -108,7 +108,7 @@ you got it. the answer is 12
 
 ---
 
-📂 File Structure
+## 📂 File Structure
 
 
 - number_guessing_game.py  # Main game script
